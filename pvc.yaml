@@ -1,0 +1,15 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: csi-nfs-test-pvc
+  namespace: default
+  labels:
+    why: test
+spec:
+  accessModes:
+    - ReadWriteOnce
+  volumeMode: Filesystem
+  
+  resources:
+    requests:
+      storage: 10Gi

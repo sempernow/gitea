@@ -1,0 +1,8 @@
+**/*.key
+**/values.yaml
+**/LOG.*
+**/*.html
+**/*.tgz
+**/*.log
+
+**/repo-1

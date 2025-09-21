@@ -90,7 +90,6 @@ Forwarding from [::1]:3000 -> 3000
 [__`localhost:3000`__](http://localhost:3000)   
 API Docs @ [__`localhost:3000/api/swagger`__](http://localhost:3000/api/swagger)
 
-![Gitea @ localhost:3000](./localhost_3000.png)
 
 
 ### [`values.yaml`](values.yaml)
@@ -130,6 +129,8 @@ ingress:
 ### Add Ingress
 
 See above 
+
+![Gitea @ git.kube.lime.lan](./git.kube.lime.lan.png)
 
 ### Add SSH access
 
@@ -248,4 +249,3 @@ To git.kube.lime.lan:u2/repo-1.git
  * [new branch]      main -> main
 
 ```
-# gitea
