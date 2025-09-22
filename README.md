@@ -126,7 +126,7 @@ ingress:
 
 ```
 
-### Add Ingress
+### Add Ingress | [__`git.kube.lime.lan`__](https://git.kube.lime.lan)
 
 See above 
 
